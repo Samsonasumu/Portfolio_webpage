@@ -1,0 +1,10 @@
+:root{
+    --mainText: #463444;/*making a variable*/
+    --secondaryColor: #383;
+    --borderColor:#164D56;
+    --secondaryColor:rgb(214, 240, 214);
+    --mainColor: #15202B;
+    --theme-border:#242924e
+    --previewBg:rgb(251, 249, 243, 0.8);
+    --buttonColor: black;
+}
